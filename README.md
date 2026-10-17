@@ -64,7 +64,7 @@ export GEMMA_MODEL="gemma-4-31b-it"
 
 ## Known limitations
 
-- **Latency.** A turn usually takes 40 to 70 seconds, and sometimes longer. Most of that time is the model reasoning before it writes, and that cannot be turned off for this model through the API. Server errors (500/504) from Google's side happen occasionally, and clicking the button again retries.
+- **Latency.** The first turn usually takes 40 to 70 seconds, and sometimes longer. Most of that time is the model reasoning before it writes, and that cannot be turned off for this model through the API. Server errors (500/504) from Google's side happen occasionally, and clicking the button again retries.
 - **Drawings are interpreted, not guaranteed.** Simple, bold drawings work best. If the model misreads one, add a short typed caption.
 - **SRD only.** Only creatures from the freely licensed SRD are available, not the full Monster Manual.
 - **Pacing depends on the model.** The creature's HP only drops when the model decides your hits land, so a fight against a high-HP creature can run long. Easy or medium difficulty gives shorter games.
