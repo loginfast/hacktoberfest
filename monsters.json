@@ -1,0 +1,5156 @@
+[
+ {
+  "name": "Awakened Shrub",
+  "size": "Small",
+  "type": "plant",
+  "cr": 0.0,
+  "ac": 9,
+  "hp": 10,
+  "speed": "walk 20 ft.",
+  "features": [
+   "False Appearance",
+   "Rake"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Baboon",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 3,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Badger",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 10,
+  "hp": 3,
+  "speed": "walk 20 ft., burrow 5 ft.",
+  "features": [
+   "Keen Smell",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Bat",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 1,
+  "speed": "walk 5 ft., fly 30 ft.",
+  "features": [
+   "Echolocation",
+   "Keen Hearing",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Cat",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 2,
+  "speed": "walk 40 ft., climb 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Claws"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Commoner",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.0,
+  "ac": 10,
+  "hp": 4,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Club"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Crab",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 11,
+  "hp": 2,
+  "speed": "walk 20 ft., swim 20 ft.",
+  "features": [
+   "Amphibious",
+   "Claw"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Deer",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 13,
+  "hp": 4,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Eagle",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 3,
+  "speed": "walk 10 ft., fly 60 ft.",
+  "features": [
+   "Keen Sight",
+   "Talons"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Frog",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 11,
+  "hp": 1,
+  "speed": "walk 20 ft., swim 20 ft.",
+  "features": [
+   "Amphibious",
+   "Standing Leap"
+  ],
+  "xp": 0
+ },
+ {
+  "name": "Giant Fire Beetle",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 13,
+  "hp": 4,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Illumination",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Goat",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 10,
+  "hp": 4,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Sure-Footed",
+   "Ram"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Hawk",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 13,
+  "hp": 1,
+  "speed": "walk 10 ft., fly 60 ft.",
+  "features": [
+   "Keen Sight",
+   "Talons"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Homunculus",
+  "size": "Tiny",
+  "type": "construct",
+  "cr": 0.0,
+  "ac": 13,
+  "hp": 5,
+  "speed": "walk 20 ft., fly 40 ft.",
+  "features": [
+   "Telepathic Bond",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Hyena",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 11,
+  "hp": 5,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Jackal",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 3,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Lemure",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 0.0,
+  "ac": 7,
+  "hp": 13,
+  "speed": "walk 15 ft.",
+  "features": [
+   "Devil's Sight",
+   "Hellish Rejuvenation",
+   "Fist"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Lizard",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 10,
+  "hp": 2,
+  "speed": "walk 20 ft., climb 20 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Octopus",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 3,
+  "speed": "walk 5 ft., swim 30 ft.",
+  "features": [
+   "Hold Breath",
+   "Underwater Camouflage",
+   "Water Breathing",
+   "Tentacles",
+   "Ink Cloud"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Owl",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 11,
+  "hp": 1,
+  "speed": "walk 5 ft., fly 60 ft.",
+  "features": [
+   "Flyby",
+   "Keen Hearing and Sight",
+   "Talons"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Quipper",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 13,
+  "hp": 1,
+  "speed": "swim 40 ft.",
+  "features": [
+   "Blood Frenzy",
+   "Water Breathing",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Rat",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 10,
+  "hp": 1,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Keen Smell",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Raven",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 1,
+  "speed": "walk 10 ft., fly 50 ft.",
+  "features": [
+   "Mimicry",
+   "Beak"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Scorpion",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 11,
+  "hp": 1,
+  "speed": "walk 10 ft.",
+  "features": [
+   "Sting"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Sea Horse",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 11,
+  "hp": 1,
+  "speed": "swim 20 ft.",
+  "features": [
+   "Water Breathing"
+  ],
+  "xp": 0
+ },
+ {
+  "name": "Shrieker",
+  "size": "Medium",
+  "type": "plant",
+  "cr": 0.0,
+  "ac": 5,
+  "hp": 13,
+  "speed": "walk 0 ft.",
+  "features": [
+   "False Appearance"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Spider",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 12,
+  "hp": 1,
+  "speed": "walk 20 ft., climb 20 ft.",
+  "features": [
+   "Spider Climb",
+   "Web Sense",
+   "Web Walker",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Vulture",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 10,
+  "hp": 5,
+  "speed": "walk 10 ft., fly 50 ft.",
+  "features": [
+   "Keen Sight and Smell",
+   "Pack Tactics",
+   "Beak"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Weasel",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.0,
+  "ac": 13,
+  "hp": 1,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Bite"
+  ],
+  "xp": 10
+ },
+ {
+  "name": "Bandit",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 11,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Scimitar",
+   "Light Crossbow"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Blood Hawk",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 7,
+  "speed": "walk 10 ft., fly 60 ft.",
+  "features": [
+   "Keen Sight",
+   "Pack Tactics",
+   "Beak"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Camel",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 9,
+  "hp": 15,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Cultist",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 9,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Dark Devotion",
+   "Scimitar"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Flying Snake",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 14,
+  "hp": 5,
+  "speed": "walk 30 ft., fly 60 ft., swim 30 ft.",
+  "features": [
+   "Flyby",
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Giant Crab",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 15,
+  "hp": 13,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Claw"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Giant Rat",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 7,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Giant Rat (Diseased)",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 7,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Giant Weasel",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 13,
+  "hp": 9,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Guard",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 16,
+  "hp": 11,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Spear"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Kobold",
+  "size": "Small",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 5,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Sunlight Sensitivity",
+   "Pack Tactics",
+   "Dagger",
+   "Sling"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Mastiff",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 5,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Merfolk",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 11,
+  "hp": 11,
+  "speed": "walk 10 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Spear"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Mule",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 10,
+  "hp": 11,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Beast of Burden",
+   "Sure-Footed",
+   "Hooves"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Noble",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 15,
+  "hp": 9,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Rapier"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Poisonous Snake",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 13,
+  "hp": 2,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Pony",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 10,
+  "hp": 11,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Hooves"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Stirge",
+  "size": "Tiny",
+  "type": "beast",
+  "cr": 0.125,
+  "ac": 14,
+  "hp": 2,
+  "speed": "walk 10 ft., fly 40 ft.",
+  "features": [
+   "Blood Drain"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Tribal Warrior",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.125,
+  "ac": 12,
+  "hp": 11,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Pack Tactics",
+   "Spear"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Acolyte",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 9,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Spellcasting",
+   "Club"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Axe Beak",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 11,
+  "hp": 19,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Beak"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Blink Dog",
+  "size": "Medium",
+  "type": "fey",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 22,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Bite",
+   "Teleport"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Boar",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 11,
+  "hp": 11,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Relentless",
+   "Tusk"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Constrictor Snake",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 12,
+  "hp": 13,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Bite",
+   "Constrict"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Draft Horse",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 19,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Hooves"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Dretch",
+  "size": "Small",
+  "type": "fiend",
+  "cr": 0.25,
+  "ac": 11,
+  "hp": 18,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Bite",
+   "Claws",
+   "Fetid Cloud"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Drow",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.25,
+  "ac": 15,
+  "hp": 13,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Fey Ancestry",
+   "Innate Spellcasting",
+   "Sunlight Sensitivity",
+   "Shortsword",
+   "Hand Crossbow"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Elk",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 13,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Charge",
+   "Ram",
+   "Hooves"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Flying Sword",
+  "size": "Small",
+  "type": "construct",
+  "cr": 0.25,
+  "ac": 17,
+  "hp": 17,
+  "speed": "walk 0 ft., fly 50 ft., hover True",
+  "features": [
+   "Antimagic Susceptibility",
+   "False Appearance",
+   "Longsword"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Badger",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 13,
+  "speed": "walk 30 ft., burrow 10 ft.",
+  "features": [
+   "Keen Smell",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Bat",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 22,
+  "speed": "walk 10 ft., fly 60 ft.",
+  "features": [
+   "Echolocation",
+   "Keen Hearing",
+   "Bite"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Centipede",
+  "size": "Small",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 4,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Frog",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 11,
+  "hp": 18,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Standing Leap",
+   "Bite",
+   "Swallow"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Lizard",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 12,
+  "hp": 19,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Owl",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 12,
+  "hp": 19,
+  "speed": "walk 5 ft., fly 60 ft.",
+  "features": [
+   "Flyby",
+   "Keen Hearing and Sight",
+   "Talons"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Poisonous Snake",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 14,
+  "hp": 11,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Giant Wolf Spider",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 11,
+  "speed": "walk 40 ft., climb 40 ft.",
+  "features": [
+   "Spider Climb",
+   "Web Sense",
+   "Web Walker",
+   "Bite"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Goblin",
+  "size": "Small",
+  "type": "humanoid",
+  "cr": 0.25,
+  "ac": 15,
+  "hp": 7,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Nimble Escape",
+   "Scimitar",
+   "Shortbow"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Grimlock",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.25,
+  "ac": 11,
+  "hp": 11,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Blind Senses",
+   "Keen Hearing and Smell",
+   "Stone Camouflage",
+   "Spiked Bone Club"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Panther",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 12,
+  "hp": 13,
+  "speed": "walk 50 ft., climb 40 ft.",
+  "features": [
+   "Keen Smell",
+   "Pounce",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Pseudodragon",
+  "size": "Tiny",
+  "type": "dragon",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 7,
+  "speed": "walk 15 ft., fly 60 ft.",
+  "features": [
+   "Keen Senses",
+   "Magic Resistance",
+   "Limited Telepathy",
+   "Bite",
+   "Sting"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Riding Horse",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 13,
+  "speed": "walk 60 ft.",
+  "features": [
+   "Hooves"
+  ],
+  "xp": 25
+ },
+ {
+  "name": "Skeleton",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 13,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shortsword",
+   "Shortbow"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Sprite",
+  "size": "Tiny",
+  "type": "fey",
+  "cr": 0.25,
+  "ac": 15,
+  "hp": 2,
+  "speed": "walk 10 ft., fly 40 ft.",
+  "features": [
+   "Longsword",
+   "Shortbow",
+   "Heart Sight"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Steam Mephit",
+  "size": "Small",
+  "type": "elemental",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 21,
+  "speed": "walk 30 ft., fly 30 ft.",
+  "features": [
+   "Death Burst",
+   "Innate Spellcasting",
+   "Claws",
+   "Steam Breath"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Swarm of Bats",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.25,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 0 ft., fly 30 ft.",
+  "features": [
+   "Echolocation",
+   "Keen Hearing",
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Swarm of Rats",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.25,
+  "ac": 10,
+  "hp": 24,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Swarm of Ravens",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.25,
+  "ac": 12,
+  "hp": 24,
+  "speed": "walk 10 ft., fly 50 ft.",
+  "features": [
+   "Swarm",
+   "Beaks"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Violet Fungus",
+  "size": "Medium",
+  "type": "plant",
+  "cr": 0.25,
+  "ac": 5,
+  "hp": 18,
+  "speed": "walk 5 ft.",
+  "features": [
+   "False Appearance",
+   "Rotting Touch"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Wolf",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.25,
+  "ac": 13,
+  "hp": 11,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Zombie",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 0.25,
+  "ac": 8,
+  "hp": 22,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Undead Fortitude",
+   "Slam"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Ape",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 19,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Fist",
+   "Rock"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Black Bear",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 19,
+  "speed": "walk 40 ft., climb 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Cockatrice",
+  "size": "Small",
+  "type": "monstrosity",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 27,
+  "speed": "walk 20 ft., fly 40 ft.",
+  "features": [
+   "Bite"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Crocodile",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 19,
+  "speed": "walk 20 ft., swim 20 ft.",
+  "features": [
+   "Hold Breath",
+   "Bite"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Darkmantle",
+  "size": "Small",
+  "type": "monstrosity",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 22,
+  "speed": "walk 10 ft., fly 30 ft.",
+  "features": [
+   "Echolocation",
+   "False Appearance",
+   "Crush",
+   "Darkness Aura"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Deep Gnome (Svirfneblin)",
+  "size": "Small",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 15,
+  "hp": 16,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Stone Camouflage",
+   "Gnome Cunning",
+   "Innate Spellcasting",
+   "War Pick",
+   "Poisoned Dart"
+  ],
+  "xp": 50
+ },
+ {
+  "name": "Dust Mephit",
+  "size": "Small",
+  "type": "elemental",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 17,
+  "speed": "walk 30 ft., fly 30 ft.",
+  "features": [
+   "Death Burst",
+   "Innate Spellcasting",
+   "Claws",
+   "Blinding Breath"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Giant Goat",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 19,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Sure-Footed",
+   "Ram"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Giant Sea Horse",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 13,
+  "hp": 16,
+  "speed": "walk 0 ft., swim 40 ft.",
+  "features": [
+   "Charge",
+   "Water Breathing",
+   "Ram"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Giant Wasp",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 13,
+  "speed": "walk 10 ft., fly 50 ft., swim 50 ft.",
+  "features": [
+   "Sting"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Gnoll",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 15,
+  "hp": 22,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Rampage",
+   "Bite",
+   "Spear",
+   "Longbow"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Gray Ooze",
+  "size": "Medium",
+  "type": "ooze",
+  "cr": 0.5,
+  "ac": 8,
+  "hp": 22,
+  "speed": "walk 10 ft., climb 10 ft.",
+  "features": [
+   "Amorphous",
+   "Corrode Metal",
+   "False Appearance",
+   "Pseudopod"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Hobgoblin",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 18,
+  "hp": 11,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Martial Advantage",
+   "Longsword",
+   "Longbow"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Ice Mephit",
+  "size": "Small",
+  "type": "elemental",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 21,
+  "speed": "walk 30 ft., fly 30 ft.",
+  "features": [
+   "Death Burst",
+   "False Appearance",
+   "Innate Spellcasting",
+   "Claws",
+   "Frost Breath"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Lizardfolk",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 13,
+  "hp": 22,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Hold Breath",
+   "Bite",
+   "Heavy Club",
+   "Javelin"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Magma Mephit",
+  "size": "Small",
+  "type": "elemental",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 22,
+  "speed": "walk 30 ft., fly 30 ft.",
+  "features": [
+   "Death Burst",
+   "False Appearance",
+   "Innate Spellcasting",
+   "Claws",
+   "Fire Breath"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Magmin",
+  "size": "Small",
+  "type": "elemental",
+  "cr": 0.5,
+  "ac": 14,
+  "hp": 9,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Death Burst",
+   "Ignited Illumination",
+   "Touch"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Orc",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 13,
+  "hp": 15,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Aggressive",
+   "Greataxe",
+   "Javelin"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Reef Shark",
+  "size": "Medium",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "swim 40 ft.",
+  "features": [
+   "Pack Tactics",
+   "Water Breathing",
+   "Bite"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Rust Monster",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 0.5,
+  "ac": 14,
+  "hp": 27,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Iron Scent",
+   "Rust Metal",
+   "Bite",
+   "Antennae"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Sahuagin",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 30 ft., swim 40 ft.",
+  "features": [
+   "Blood Frenzy",
+   "Limited Amphibiousness",
+   "Shark Telepathy",
+   "Bite",
+   "Claws",
+   "Spear"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Satyr",
+  "size": "Medium",
+  "type": "fey",
+  "cr": 0.5,
+  "ac": 14,
+  "hp": 31,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Magic Resistance",
+   "Ram",
+   "Shortsword",
+   "Shortbow"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Scout",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 13,
+  "hp": 16,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Keen Hearing and Sight",
+   "Shortsword",
+   "Longbow"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Shadow",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 16,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Amorphous",
+   "Shadow Stealth",
+   "Sunlight Weakness",
+   "Strength Drain"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Swarm of Beetles",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 20 ft., burrow 5 ft., climb 20 ft.",
+  "features": [
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Swarm of Centipedes",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 20 ft., climb 20 ft.",
+  "features": [
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Swarm of Insects",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 20 ft., climb 20 ft.",
+  "features": [
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Swarm of Spiders",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 20 ft., climb 20 ft.",
+  "features": [
+   "Swarm",
+   "Spider Climb",
+   "Web Sense",
+   "Bites"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Swarm of Wasps",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 0.5,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 5 ft., fly 30 ft.",
+  "features": [
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Thug",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 32,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Pack Tactics",
+   "Mace",
+   "Heavy Crossbow"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Warhorse",
+  "size": "Large",
+  "type": "beast",
+  "cr": 0.5,
+  "ac": 11,
+  "hp": 19,
+  "speed": "walk 60 ft.",
+  "features": [
+   "Trampling Charge",
+   "Hooves"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Warhorse Skeleton",
+  "size": "Large",
+  "type": "undead",
+  "cr": 0.5,
+  "ac": 13,
+  "hp": 22,
+  "speed": "walk 60 ft.",
+  "features": [
+   "Hooves"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Worg",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 0.5,
+  "ac": 13,
+  "hp": 26,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Bite"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Animated Armor",
+  "size": "Medium",
+  "type": "construct",
+  "cr": 1.0,
+  "ac": 18,
+  "hp": 33,
+  "speed": "walk 25 ft.",
+  "features": [
+   "Antimagic Susceptibility",
+   "False Appearance",
+   "Slam"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Brass Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 1.0,
+  "ac": 16,
+  "hp": 16,
+  "speed": "walk 30 ft., burrow 15 ft., fly 60 ft.",
+  "features": [
+   "Bite",
+   "Breath Weapons"
+  ],
+  "xp": 100
+ },
+ {
+  "name": "Brown Bear",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 11,
+  "hp": 34,
+  "speed": "walk 40 ft., climb 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Bugbear",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 1.0,
+  "ac": 16,
+  "hp": 27,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Brute",
+   "Surprise Attack",
+   "Morningstar",
+   "Javelin"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Copper Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 1.0,
+  "ac": 16,
+  "hp": 22,
+  "speed": "walk 30 ft., climb 30 ft., fly 60 ft.",
+  "features": [
+   "Bite",
+   "Breath Weapons"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Death Dog",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 39,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Two-Headed",
+   "Bite"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Dire Wolf",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 14,
+  "hp": 37,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Pack Tactics",
+   "Bite"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Dryad",
+  "size": "Medium",
+  "type": "fey",
+  "cr": 1.0,
+  "ac": 11,
+  "hp": 22,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Innate Spellcasting",
+   "Magic Resistance",
+   "Speak with Beasts and Plants",
+   "Club",
+   "Fey Charm"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Duergar",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 1.0,
+  "ac": 16,
+  "hp": 26,
+  "speed": "walk 25 ft.",
+  "features": [
+   "Duergar Resilience",
+   "Sunlight Sensitivity",
+   "Enlarge",
+   "War Pick",
+   "Javelin"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Ghoul",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Bite",
+   "Claws"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Giant Eagle",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 13,
+  "hp": 26,
+  "speed": "walk 10 ft., fly 80 ft.",
+  "features": [
+   "Keen Sight",
+   "Beak",
+   "Talons"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Giant Hyena",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 45,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Rampage",
+   "Bite"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Giant Octopus",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 11,
+  "hp": 52,
+  "speed": "walk 10 ft., swim 60 ft.",
+  "features": [
+   "Hold Breath",
+   "Underwater Camouflage",
+   "Water Breathing",
+   "Tentacles",
+   "Ink Cloud"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Giant Spider",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 14,
+  "hp": 26,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Spider Climb",
+   "Web Sense",
+   "Web Walker",
+   "Bite",
+   "Web"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Giant Toad",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 11,
+  "hp": 39,
+  "speed": "walk 20 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Standing Leap",
+   "Bite",
+   "Swallow"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Giant Vulture",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 10,
+  "hp": 22,
+  "speed": "walk 10 ft., fly 60 ft.",
+  "features": [
+   "Keen Sight and Smell",
+   "Pack Tactics",
+   "Beak",
+   "Talons"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Harpy",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 1.0,
+  "ac": 11,
+  "hp": 38,
+  "speed": "walk 20 ft., fly 40 ft.",
+  "features": [
+   "Claws",
+   "Club",
+   "Luring Song"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Hippogriff",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 1.0,
+  "ac": 11,
+  "hp": 19,
+  "speed": "walk 40 ft., fly 60 ft.",
+  "features": [
+   "Keen Sight",
+   "Beak",
+   "Claws"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Imp",
+  "size": "Tiny",
+  "type": "fiend",
+  "cr": 1.0,
+  "ac": 13,
+  "hp": 10,
+  "speed": "walk 20 ft., fly 40 ft.",
+  "features": [
+   "Shapechanger",
+   "Devil's Sight",
+   "Magic Resistance",
+   "Sting (Bite in Beast Form)",
+   "Invisibility"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Lion",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 26,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Keen Smell",
+   "Pack Tactics",
+   "Pounce",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Quasit",
+  "size": "Tiny",
+  "type": "fiend",
+  "cr": 1.0,
+  "ac": 13,
+  "hp": 7,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Shapechanger",
+   "Magic Resistance",
+   "Claw (Bite in Beast Form)",
+   "Scare",
+   "Invisibility"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Specter",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 22,
+  "speed": "walk 0 ft., fly 50 ft., hover True",
+  "features": [
+   "Incorporeal Movement",
+   "Sunlight Sensitivity",
+   "Life Drain"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Spy",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 27,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Cunning Action",
+   "Sneak Attack (1/Turn)",
+   "Shortsword",
+   "Hand Crossbow"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Swarm of Quippers",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 1.0,
+  "ac": 13,
+  "hp": 28,
+  "speed": "walk 0 ft., swim 40 ft.",
+  "features": [
+   "Blood Frenzy",
+   "Swarm",
+   "Water Breathing",
+   "Bites"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Tiger",
+  "size": "Large",
+  "type": "beast",
+  "cr": 1.0,
+  "ac": 12,
+  "hp": 37,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Smell",
+   "Pounce",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 200
+ },
+ {
+  "name": "Ankheg",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 14,
+  "hp": 39,
+  "speed": "walk 30 ft., burrow 10 ft.",
+  "features": [
+   "Bite",
+   "Acid Spray"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Awakened Tree",
+  "size": "Huge",
+  "type": "plant",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 59,
+  "speed": "walk 20 ft.",
+  "features": [
+   "False Appearance",
+   "Slam"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Azer",
+  "size": "Medium",
+  "type": "elemental",
+  "cr": 2.0,
+  "ac": 15,
+  "hp": 39,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Heated Body",
+   "Heated Weapons",
+   "Illumination",
+   "Warhammer"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Bandit Captain",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 15,
+  "hp": 65,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Scimitar",
+   "Dagger"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Berserker",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 67,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Reckless",
+   "Greataxe"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Black Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 2.0,
+  "ac": 17,
+  "hp": 33,
+  "speed": "walk 30 ft., fly 60 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Acid Breath"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Bronze Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 2.0,
+  "ac": 17,
+  "hp": 32,
+  "speed": "walk 30 ft., fly 60 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Breath Weapons"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Centaur",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 45,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Charge",
+   "Pike",
+   "Hooves",
+   "Longbow"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Cult Fanatic",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 22,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Dark Devotion",
+   "Spellcasting",
+   "Dagger"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Druid",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 11,
+  "hp": 27,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Spellcasting",
+   "Quarterstaff"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Ettercap",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 44,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Spider Climb",
+   "Web Sense",
+   "Web Walker",
+   "Bite",
+   "Claws",
+   "Web"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Gargoyle",
+  "size": "Medium",
+  "type": "elemental",
+  "cr": 2.0,
+  "ac": 15,
+  "hp": 52,
+  "speed": "walk 30 ft., fly 60 ft.",
+  "features": [
+   "False Appearance",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Gelatinous Cube",
+  "size": "Large",
+  "type": "ooze",
+  "cr": 2.0,
+  "ac": 6,
+  "hp": 84,
+  "speed": "walk 15 ft.",
+  "features": [
+   "Ooze Cube",
+   "Transparent",
+   "Pseudopod",
+   "Engulf"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Ghast",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 36,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Stench",
+   "Turn Defiance",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Giant Boar",
+  "size": "Large",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 42,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Relentless",
+   "Tusk"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Giant Constrictor Snake",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 60,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Bite",
+   "Constrict"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Giant Elk",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 14,
+  "hp": 42,
+  "speed": "walk 60 ft.",
+  "features": [
+   "Charge",
+   "Ram",
+   "Hooves"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Gibbering Mouther",
+  "size": "Medium",
+  "type": "aberration",
+  "cr": 2.0,
+  "ac": 9,
+  "hp": 67,
+  "speed": "walk 10 ft., swim 10 ft.",
+  "features": [
+   "Aberrant Ground",
+   "Gibbering",
+   "Bites",
+   "Blinding Spittle"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Green Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 2.0,
+  "ac": 17,
+  "hp": 38,
+  "speed": "walk 30 ft., fly 60 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Poison Breath"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Grick",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 14,
+  "hp": 27,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Stone Camouflage",
+   "Tentacles",
+   "Beak"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Griffon",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 59,
+  "speed": "walk 30 ft., fly 80 ft.",
+  "features": [
+   "Keen Sight",
+   "Beak",
+   "Claws"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Hunter Shark",
+  "size": "Large",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 45,
+  "speed": "swim 40 ft.",
+  "features": [
+   "Blood Frenzy",
+   "Water Breathing",
+   "Bite"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Merrow",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 45,
+  "speed": "walk 10 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Claws",
+   "Harpoon"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Mimic",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 58,
+  "speed": "walk 15 ft.",
+  "features": [
+   "Shapechanger",
+   "Adhesive (Object Form Only)",
+   "False Appearance (Object Form Only)",
+   "Pseudopod",
+   "Bite"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Minotaur Skeleton",
+  "size": "Large",
+  "type": "undead",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 67,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Greataxe",
+   "Gore"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Ochre Jelly",
+  "size": "Large",
+  "type": "ooze",
+  "cr": 2.0,
+  "ac": 8,
+  "hp": 45,
+  "speed": "walk 10 ft., climb 10 ft.",
+  "features": [
+   "Amorphous",
+   "Spider Climb",
+   "Pseudopod"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Ogre",
+  "size": "Large",
+  "type": "giant",
+  "cr": 2.0,
+  "ac": 11,
+  "hp": 59,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Greatclub",
+   "Javelin"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Ogre Zombie",
+  "size": "Large",
+  "type": "undead",
+  "cr": 2.0,
+  "ac": 8,
+  "hp": 85,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Undead Fortitude",
+   "Morningstar"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Pegasus",
+  "size": "Large",
+  "type": "celestial",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 59,
+  "speed": "walk 60 ft., fly 90 ft.",
+  "features": [
+   "Hooves"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Plesiosaurus",
+  "size": "Large",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 68,
+  "speed": "walk 20 ft., swim 40 ft.",
+  "features": [
+   "Hold Breath",
+   "Bite"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Polar Bear",
+  "size": "Large",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 42,
+  "speed": "walk 40 ft., swim 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Priest",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 13,
+  "hp": 27,
+  "speed": "walk 25 ft.",
+  "features": [
+   "Divine Eminence",
+   "Spellcasting",
+   "Mace"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Rhinoceros",
+  "size": "Large",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 11,
+  "hp": 45,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Gore"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Rug of Smothering",
+  "size": "Large",
+  "type": "construct",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 33,
+  "speed": "walk 10 ft.",
+  "features": [
+   "Antimagic Susceptibility",
+   "Damage Transfer",
+   "False Appearance",
+   "Smother"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Saber-Toothed Tiger",
+  "size": "Large",
+  "type": "beast",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 52,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Smell",
+   "Pounce",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Sea Hag",
+  "size": "Medium",
+  "type": "fey",
+  "cr": 2.0,
+  "ac": 14,
+  "hp": 52,
+  "speed": "walk 30 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Horrific Appearance",
+   "Claws",
+   "Death Glare",
+   "Illusory Appearance"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Silver Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 2.0,
+  "ac": 17,
+  "hp": 45,
+  "speed": "walk 30 ft., fly 60 ft.",
+  "features": [
+   "Bite",
+   "Breath Weapons"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Swarm of Poisonous Snakes",
+  "size": "Medium",
+  "type": "swarm of Tiny beasts",
+  "cr": 2.0,
+  "ac": 14,
+  "hp": 36,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Swarm",
+   "Bites"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Wererat, Human Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 33,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Smell",
+   "Shortsword",
+   "Hand Crossbow"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Wererat, Hybrid Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 33,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Smell",
+   "Bite",
+   "Shortsword",
+   "Hand Crossbow"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Wererat, Rat Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 2.0,
+  "ac": 12,
+  "hp": 33,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Smell",
+   "Bite"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "White Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 2.0,
+  "ac": 16,
+  "hp": 32,
+  "speed": "walk 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",
+  "features": [
+   "Bite",
+   "Cold Breath"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Will-o'-Wisp",
+  "size": "Tiny",
+  "type": "undead",
+  "cr": 2.0,
+  "ac": 19,
+  "hp": 22,
+  "speed": "walk 0 ft., fly 50 ft., hover True",
+  "features": [
+   "Consume Life",
+   "Ephemeral",
+   "Incorporeal Movement",
+   "Shock",
+   "Invisibility"
+  ],
+  "xp": 450
+ },
+ {
+  "name": "Basilisk",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 12,
+  "hp": 52,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Petrifying Gaze",
+   "Bite"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Bearded Devil",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 3.0,
+  "ac": 13,
+  "hp": 52,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Devil's Sight",
+   "Magic Resistance",
+   "Steadfast",
+   "Beard",
+   "Glaive"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Blue Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 3.0,
+  "ac": 17,
+  "hp": 52,
+  "speed": "walk 30 ft., burrow 15 ft., fly 60 ft.",
+  "features": [
+   "Bite",
+   "Lightning Breath"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Doppelganger",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 14,
+  "hp": 52,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Ambusher",
+   "Surprise Attack",
+   "Slam",
+   "Read Thoughts"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Giant Scorpion",
+  "size": "Large",
+  "type": "beast",
+  "cr": 3.0,
+  "ac": 15,
+  "hp": 52,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Claw",
+   "Sting"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Gold Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 3.0,
+  "ac": 17,
+  "hp": 60,
+  "speed": "walk 30 ft., fly 60 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Breath Weapons"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Green Hag",
+  "size": "Medium",
+  "type": "fey",
+  "cr": 3.0,
+  "ac": 17,
+  "hp": 82,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Amphibious",
+   "Innate Spellcasting",
+   "Mimicry",
+   "Claws",
+   "Illusory Appearance",
+   "Invisible Passage"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Hell Hound",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 3.0,
+  "ac": 15,
+  "hp": 45,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Pack Tactics",
+   "Bite",
+   "Fire Breath"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Killer Whale",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 3.0,
+  "ac": 12,
+  "hp": 90,
+  "speed": "swim 60 ft.",
+  "features": [
+   "Echolocation",
+   "Hold Breath",
+   "Keen Hearing",
+   "Bite"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Knight",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 3.0,
+  "ac": 18,
+  "hp": 52,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Brave",
+   "Greatsword",
+   "Heavy Crossbow",
+   "Leadership"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Manticore",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 14,
+  "hp": 68,
+  "speed": "walk 30 ft., fly 50 ft.",
+  "features": [
+   "Tail Spike Regrowth",
+   "Bite",
+   "Claw",
+   "Tail Spike"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Minotaur",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 14,
+  "hp": 76,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Charge",
+   "Labyrinthine Recall",
+   "Reckless",
+   "Greataxe",
+   "Gore"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Mummy",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 3.0,
+  "ac": 11,
+  "hp": 58,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Rotting Fist",
+   "Dreadful Glare"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Nightmare",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 3.0,
+  "ac": 13,
+  "hp": 68,
+  "speed": "walk 60 ft., fly 90 ft.",
+  "features": [
+   "Confer Fire Resistance",
+   "Illumination",
+   "Hooves",
+   "Ethereal Stride"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Owlbear",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 13,
+  "hp": 59,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Sight and Smell",
+   "Beak",
+   "Claws"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Phase Spider",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 13,
+  "hp": 32,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Ethereal Jaunt",
+   "Spider Climb",
+   "Web Walker",
+   "Bite"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Veteran",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 3.0,
+  "ac": 17,
+  "hp": 58,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Longsword",
+   "Shortsword",
+   "Heavy Crossbow"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Werewolf, Human Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 3.0,
+  "ac": 11,
+  "hp": 58,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Hearing and Smell",
+   "Spear"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Werewolf, Hybrid Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 3.0,
+  "ac": 12,
+  "hp": 58,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Hearing and Smell",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Werewolf, Wolf Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 3.0,
+  "ac": 12,
+  "hp": 58,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Hearing and Smell",
+   "Bite"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Wight",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 3.0,
+  "ac": 14,
+  "hp": 45,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Sunlight Sensitivity",
+   "Life Drain",
+   "Longsword",
+   "Longbow"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Winter Wolf",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 3.0,
+  "ac": 13,
+  "hp": 75,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Keen Hearing and Smell",
+   "Pack Tactics",
+   "Snow Camouflage",
+   "Bite",
+   "Cold Breath"
+  ],
+  "xp": 700
+ },
+ {
+  "name": "Black Pudding",
+  "size": "Large",
+  "type": "ooze",
+  "cr": 4.0,
+  "ac": 7,
+  "hp": 85,
+  "speed": "walk 20 ft., climb 20 ft.",
+  "features": [
+   "Amorphous",
+   "Corrosive Form",
+   "Spider Climb",
+   "Pseudopod"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Chuul",
+  "size": "Large",
+  "type": "aberration",
+  "cr": 4.0,
+  "ac": 16,
+  "hp": 93,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Amphibious",
+   "Sense Magic",
+   "Pincer",
+   "Tentacles"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Couatl",
+  "size": "Medium",
+  "type": "celestial",
+  "cr": 4.0,
+  "ac": 19,
+  "hp": 97,
+  "speed": "walk 30 ft., fly 90 ft.",
+  "features": [
+   "Innate Spellcasting",
+   "Magic Weapons",
+   "Shielded Mind",
+   "Bite",
+   "Constrict",
+   "Change Shape"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Elephant",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 4.0,
+  "ac": 12,
+  "hp": 76,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Trampling Charge",
+   "Gore",
+   "Stomp"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Ettin",
+  "size": "Large",
+  "type": "giant",
+  "cr": 4.0,
+  "ac": 12,
+  "hp": 85,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Two Heads",
+   "Wakeful",
+   "Battleaxe",
+   "Morningstar"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Ghost",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 4.0,
+  "ac": 11,
+  "hp": 45,
+  "speed": "walk 0 ft., fly 40 ft., hover True",
+  "features": [
+   "Ethereal Sight",
+   "Incorporeal Movement",
+   "Withering Touch",
+   "Etherealness",
+   "Horrifying Visage"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Lamia",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 4.0,
+  "ac": 13,
+  "hp": 97,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Innate Spellcasting",
+   "Claws",
+   "Dagger",
+   "Intoxicating Touch"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Red Dragon Wyrmling",
+  "size": "Medium",
+  "type": "dragon",
+  "cr": 4.0,
+  "ac": 17,
+  "hp": 75,
+  "speed": "walk 30 ft., climb 30 ft., fly 60 ft.",
+  "features": [
+   "Bite",
+   "Fire Breath"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Succubus/Incubus",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 4.0,
+  "ac": 15,
+  "hp": 66,
+  "speed": "walk 30 ft., fly 60 ft.",
+  "features": [
+   "Telepathic Bond",
+   "Shapechanger",
+   "Claw (Fiend Form Only)",
+   "Charm",
+   "Draining Kiss"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Wereboar, Boar Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 4.0,
+  "ac": 11,
+  "hp": 78,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Shapechanger",
+   "Charge (Boar or Hybrid Form Only)",
+   "Relentless",
+   "Tusks"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Wereboar, Human Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 4.0,
+  "ac": 10,
+  "hp": 78,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Relentless",
+   "Maul"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Wereboar, Hybrid Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 4.0,
+  "ac": 11,
+  "hp": 78,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Charge (Boar or Hybrid Form Only)",
+   "Relentless",
+   "Maul",
+   "Tusks"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Weretiger, Human Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 4.0,
+  "ac": 12,
+  "hp": 120,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Hearing and Smell",
+   "Scimitar",
+   "Longbow"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Weretiger, Hybrid Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 4.0,
+  "ac": 12,
+  "hp": 120,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Hearing and Smell",
+   "Pounce",
+   "Bite",
+   "Claw",
+   "Scimitar"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Weretiger, Tiger Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 4.0,
+  "ac": 12,
+  "hp": 120,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Hearing and Smell",
+   "Pounce",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 1100
+ },
+ {
+  "name": "Air Elemental",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 5.0,
+  "ac": 15,
+  "hp": 90,
+  "speed": "fly 90 ft., hover True",
+  "features": [
+   "Air Form",
+   "Slam",
+   "Whirlwind"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Barbed Devil",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 5.0,
+  "ac": 15,
+  "hp": 110,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Barbed Hide",
+   "Devil's Sight",
+   "Magic Resistance",
+   "Claw",
+   "Tail",
+   "Hurl Flame"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Bulette",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 5.0,
+  "ac": 17,
+  "hp": 94,
+  "speed": "walk 40 ft., burrow 40 ft.",
+  "features": [
+   "Standing Leap",
+   "Bite",
+   "Deadly Leap"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Earth Elemental",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 5.0,
+  "ac": 17,
+  "hp": 126,
+  "speed": "walk 30 ft., burrow 30 ft.",
+  "features": [
+   "Earth Glide",
+   "Siege Monster",
+   "Slam"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Fire Elemental",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 5.0,
+  "ac": 13,
+  "hp": 102,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Fire Form",
+   "Illumination",
+   "Water Susceptibility",
+   "Touch"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Flesh Golem",
+  "size": "Medium",
+  "type": "construct",
+  "cr": 5.0,
+  "ac": 9,
+  "hp": 93,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Berserk",
+   "Aversion of Fire",
+   "Immutable Form",
+   "Slam"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Giant Crocodile",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 5.0,
+  "ac": 14,
+  "hp": 85,
+  "speed": "walk 30 ft., swim 50 ft.",
+  "features": [
+   "Hold Breath",
+   "Bite",
+   "Tail"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Giant Shark",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 5.0,
+  "ac": 13,
+  "hp": 126,
+  "speed": "swim 50 ft.",
+  "features": [
+   "Blood Frenzy",
+   "Water Breathing",
+   "Bite"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Gladiator",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 5.0,
+  "ac": 16,
+  "hp": 112,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Brave",
+   "Brute",
+   "Spear",
+   "Shield Bash"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Gorgon",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 5.0,
+  "ac": 19,
+  "hp": 114,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Trampling Charge",
+   "Gore",
+   "Hooves",
+   "Petrifying Breath"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Half-Red Dragon Veteran",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 5.0,
+  "ac": 18,
+  "hp": 65,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Longsword",
+   "Shortsword",
+   "Heavy Crossbow"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Hill Giant",
+  "size": "Huge",
+  "type": "giant",
+  "cr": 5.0,
+  "ac": 13,
+  "hp": 105,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Greatclub",
+   "Rock"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Night Hag",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 5.0,
+  "ac": 17,
+  "hp": 112,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Innate Spellcasting",
+   "Magic Resistance",
+   "Night Hag Items",
+   "Claws (Hag Form Only)",
+   "Change Shape",
+   "Etherealness"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Otyugh",
+  "size": "Large",
+  "type": "aberration",
+  "cr": 5.0,
+  "ac": 14,
+  "hp": 114,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Limited Telepathy",
+   "Bite",
+   "Tentacle",
+   "Tentacle Slam"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Roper",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 5.0,
+  "ac": 20,
+  "hp": 93,
+  "speed": "walk 10 ft., climb 10 ft.",
+  "features": [
+   "False Appearance",
+   "Grasping Tendrils",
+   "Spider Climb",
+   "Bite",
+   "Tendril",
+   "Reel"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Salamander",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 5.0,
+  "ac": 15,
+  "hp": 90,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Heated Body",
+   "Heated Weapons",
+   "Spear",
+   "Tail"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Shambling Mound",
+  "size": "Large",
+  "type": "plant",
+  "cr": 5.0,
+  "ac": 15,
+  "hp": 136,
+  "speed": "walk 20 ft., swim 20 ft.",
+  "features": [
+   "Lightning Absorption",
+   "Slam",
+   "Engulf"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Triceratops",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 5.0,
+  "ac": 13,
+  "hp": 95,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Trampling Charge",
+   "Gore",
+   "Stomp"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Troll",
+  "size": "Large",
+  "type": "giant",
+  "cr": 5.0,
+  "ac": 15,
+  "hp": 84,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Keen Smell",
+   "Regeneration",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Unicorn",
+  "size": "Large",
+  "type": "celestial",
+  "cr": 5.0,
+  "ac": 12,
+  "hp": 67,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Charge",
+   "Innate Spellcasting",
+   "Magic Resistance",
+   "Hooves",
+   "Horn",
+   "Healing Touch"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Vampire Spawn",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 5.0,
+  "ac": 15,
+  "hp": 82,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Regeneration",
+   "Spider Climb",
+   "Vampire Weaknesses",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Water Elemental",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 5.0,
+  "ac": 14,
+  "hp": 114,
+  "speed": "walk 30 ft., swim 90 ft.",
+  "features": [
+   "Water Form",
+   "Freeze",
+   "Slam",
+   "Whelm"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Werebear, Bear Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 5.0,
+  "ac": 11,
+  "hp": 135,
+  "speed": "walk 40 ft., climb 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Smell",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Werebear, Human Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 5.0,
+  "ac": 10,
+  "hp": 135,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Smell",
+   "Greataxe"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Werebear, Hybrid Form",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 5.0,
+  "ac": 11,
+  "hp": 135,
+  "speed": "walk 40 ft., climb 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Keen Smell",
+   "Bite",
+   "Claw",
+   "Greataxe"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Wraith",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 5.0,
+  "ac": 13,
+  "hp": 67,
+  "speed": "walk 0 ft., fly 60 ft., hover True",
+  "features": [
+   "Incorporeal Movement",
+   "Sunlight Sensitivity",
+   "Life Drain",
+   "Create Specter"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Xorn",
+  "size": "Medium",
+  "type": "elemental",
+  "cr": 5.0,
+  "ac": 19,
+  "hp": 73,
+  "speed": "walk 20 ft., burrow 20 ft.",
+  "features": [
+   "Earth Glide",
+   "Stone Camouflage",
+   "Treasure Sense",
+   "Bite",
+   "Claw"
+  ],
+  "xp": 1800
+ },
+ {
+  "name": "Chimera",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 6.0,
+  "ac": 14,
+  "hp": 114,
+  "speed": "walk 30 ft., fly 60 ft.",
+  "features": [
+   "Bite",
+   "Horns",
+   "Claws"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Drider",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 6.0,
+  "ac": 19,
+  "hp": 123,
+  "speed": "walk 30 ft., climb 30 ft.",
+  "features": [
+   "Fey Ancestry",
+   "Innate Spellcasting",
+   "Spider Climb",
+   "Bite",
+   "Longsword",
+   "Longbow"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Invisible Stalker",
+  "size": "Medium",
+  "type": "elemental",
+  "cr": 6.0,
+  "ac": 14,
+  "hp": 104,
+  "speed": "walk 50 ft., fly 50 ft., hover True",
+  "features": [
+   "Invisibility",
+   "Faultless Tracker",
+   "Slam"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Mage",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 6.0,
+  "ac": 12,
+  "hp": 40,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Spellcasting",
+   "Dagger"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Mammoth",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 6.0,
+  "ac": 13,
+  "hp": 126,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Trampling Charge",
+   "Gore",
+   "Stomp"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Medusa",
+  "size": "Medium",
+  "type": "monstrosity",
+  "cr": 6.0,
+  "ac": 15,
+  "hp": 127,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Petrifying Gaze",
+   "Snake Hair",
+   "Shortsword",
+   "Longbow"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Vrock",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 6.0,
+  "ac": 15,
+  "hp": 104,
+  "speed": "walk 40 ft., fly 60 ft.",
+  "features": [
+   "Magic Resistance",
+   "Beak",
+   "Talons",
+   "Spores"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Wyvern",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 6.0,
+  "ac": 13,
+  "hp": 110,
+  "speed": "walk 20 ft., fly 80 ft.",
+  "features": [
+   "Bite",
+   "Claws",
+   "Stinger"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Young Brass Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 6.0,
+  "ac": 17,
+  "hp": 110,
+  "speed": "walk 40 ft., burrow 20 ft., fly 80 ft.",
+  "features": [
+   "Bite",
+   "Claw",
+   "Breath Weapons"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Young White Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 6.0,
+  "ac": 17,
+  "hp": 133,
+  "speed": "walk 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Ice Walk",
+   "Bite",
+   "Claw",
+   "Cold Breath"
+  ],
+  "xp": 2300
+ },
+ {
+  "name": "Giant Ape",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 7.0,
+  "ac": 12,
+  "hp": 157,
+  "speed": "walk 40 ft., climb 40 ft.",
+  "features": [
+   "Fist",
+   "Rock"
+  ],
+  "xp": 2900
+ },
+ {
+  "name": "Oni",
+  "size": "Large",
+  "type": "giant",
+  "cr": 7.0,
+  "ac": 16,
+  "hp": 110,
+  "speed": "walk 30 ft., fly 30 ft.",
+  "features": [
+   "Innate Spellcasting",
+   "Magic Weapons",
+   "Regeneration",
+   "Claw (Oni Form Only)",
+   "Glaive",
+   "Change Shape"
+  ],
+  "xp": 2900
+ },
+ {
+  "name": "Shield Guardian",
+  "size": "Large",
+  "type": "construct",
+  "cr": 7.0,
+  "ac": 17,
+  "hp": 142,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Bound",
+   "Regeneration",
+   "Spell Storing",
+   "Fist"
+  ],
+  "xp": 2900
+ },
+ {
+  "name": "Stone Giant",
+  "size": "Huge",
+  "type": "giant",
+  "cr": 7.0,
+  "ac": 17,
+  "hp": 126,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Stone Camouflage",
+   "Greatclub",
+   "Rock"
+  ],
+  "xp": 2900
+ },
+ {
+  "name": "Young Black Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 7.0,
+  "ac": 18,
+  "hp": 127,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Claw",
+   "Acid Breath"
+  ],
+  "xp": 2900
+ },
+ {
+  "name": "Young Copper Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 7.0,
+  "ac": 17,
+  "hp": 119,
+  "speed": "walk 40 ft., climb 40 ft., fly 80 ft.",
+  "features": [
+   "Bite",
+   "Claw",
+   "Breath Weapons"
+  ],
+  "xp": 2900
+ },
+ {
+  "name": "Assassin",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 8.0,
+  "ac": 15,
+  "hp": 78,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Assassinate",
+   "Evasion",
+   "Sneak Attack (1/Turn)",
+   "Shortsword",
+   "Light Crossbow"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Chain Devil",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 8.0,
+  "ac": 16,
+  "hp": 85,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Devil's Sight",
+   "Magic Resistance",
+   "Chain",
+   "Animate Chains"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Cloaker",
+  "size": "Large",
+  "type": "aberration",
+  "cr": 8.0,
+  "ac": 14,
+  "hp": 78,
+  "speed": "walk 10 ft., fly 40 ft.",
+  "features": [
+   "Damage Transfer",
+   "False Appearance",
+   "Light Sensitivity",
+   "Bite",
+   "Tail",
+   "Moan"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Frost Giant",
+  "size": "Huge",
+  "type": "giant",
+  "cr": 8.0,
+  "ac": 15,
+  "hp": 138,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Greataxe",
+   "Rock"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Hezrou",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 8.0,
+  "ac": 16,
+  "hp": 136,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Magic Resistance",
+   "Stench",
+   "Bite",
+   "Claws"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Hydra",
+  "size": "Huge",
+  "type": "monstrosity",
+  "cr": 8.0,
+  "ac": 15,
+  "hp": 172,
+  "speed": "walk 30 ft., swim 30 ft.",
+  "features": [
+   "Hold Breath",
+   "Multiple Heads",
+   "Reactive Heads",
+   "Bite"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Spirit Naga",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 8.0,
+  "ac": 15,
+  "hp": 75,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Rejuvenation",
+   "Spellcasting",
+   "Bite"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Tyrannosaurus Rex",
+  "size": "Huge",
+  "type": "beast",
+  "cr": 8.0,
+  "ac": 13,
+  "hp": 136,
+  "speed": "walk 50 ft.",
+  "features": [
+   "Bite",
+   "Tail"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Young Bronze Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 8.0,
+  "ac": 18,
+  "hp": 142,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Claw",
+   "Breath Weapons"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Young Green Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 8.0,
+  "ac": 18,
+  "hp": 136,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Claw",
+   "Poison Breath"
+  ],
+  "xp": 3900
+ },
+ {
+  "name": "Bone Devil",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 9.0,
+  "ac": 19,
+  "hp": 142,
+  "speed": "walk 40 ft., fly 40 ft.",
+  "features": [
+   "Devil's Sight",
+   "Magic Resistance",
+   "Claw",
+   "Sting"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Clay Golem",
+  "size": "Large",
+  "type": "construct",
+  "cr": 9.0,
+  "ac": 14,
+  "hp": 133,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Acid Absorption",
+   "Berserk",
+   "Immutable Form",
+   "Slam",
+   "Haste"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Cloud Giant",
+  "size": "Huge",
+  "type": "giant",
+  "cr": 9.0,
+  "ac": 14,
+  "hp": 200,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Keen Smell",
+   "Innate Spellcasting",
+   "Morningstar",
+   "Rock"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Fire Giant",
+  "size": "Huge",
+  "type": "giant",
+  "cr": 9.0,
+  "ac": 18,
+  "hp": 162,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Greatsword",
+   "Rock"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Glabrezu",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 9.0,
+  "ac": 17,
+  "hp": 157,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Innate Spellcasting",
+   "Magic Resistance",
+   "Pincer",
+   "Fist"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Treant",
+  "size": "Huge",
+  "type": "plant",
+  "cr": 9.0,
+  "ac": 16,
+  "hp": 138,
+  "speed": "walk 30 ft.",
+  "features": [
+   "False Appearance",
+   "Siege Monster",
+   "Slam",
+   "Rock",
+   "Animate Trees"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Young Blue Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 9.0,
+  "ac": 18,
+  "hp": 152,
+  "speed": "walk 40 ft., burrow 20 ft., fly 80 ft.",
+  "features": [
+   "Bite",
+   "Claw",
+   "Lightning Breath"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Young Silver Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 9.0,
+  "ac": 18,
+  "hp": 168,
+  "speed": "walk 40 ft., fly 80 ft.",
+  "features": [
+   "Bite",
+   "Claw",
+   "Breath Weapons"
+  ],
+  "xp": 5000
+ },
+ {
+  "name": "Aboleth",
+  "size": "Large",
+  "type": "aberration",
+  "cr": 10.0,
+  "ac": 17,
+  "hp": 135,
+  "speed": "walk 10 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Mucous Cloud",
+   "Probing Telepathy",
+   "Tentacle",
+   "Tail",
+   "Enslave"
+  ],
+  "xp": 5900
+ },
+ {
+  "name": "Deva",
+  "size": "Medium",
+  "type": "celestial",
+  "cr": 10.0,
+  "ac": 17,
+  "hp": 136,
+  "speed": "walk 30 ft., fly 90 ft.",
+  "features": [
+   "Angelic Weapons",
+   "Innate Spellcasting",
+   "Magic Resistance",
+   "Mace",
+   "Healing Touch",
+   "Change Shape"
+  ],
+  "xp": 5900
+ },
+ {
+  "name": "Guardian Naga",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 10.0,
+  "ac": 18,
+  "hp": 127,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Rejuvenation",
+   "Spellcasting",
+   "Bite",
+   "Spit Poison"
+  ],
+  "xp": 5900
+ },
+ {
+  "name": "Stone Golem",
+  "size": "Large",
+  "type": "construct",
+  "cr": 10.0,
+  "ac": 17,
+  "hp": 178,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Immutable Form",
+   "Magic Resistance",
+   "Magic Weapons",
+   "Slam",
+   "Slow"
+  ],
+  "xp": 5900
+ },
+ {
+  "name": "Young Gold Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 10.0,
+  "ac": 18,
+  "hp": 178,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Claw",
+   "Breath Weapons"
+  ],
+  "xp": 5900
+ },
+ {
+  "name": "Young Red Dragon",
+  "size": "Large",
+  "type": "dragon",
+  "cr": 10.0,
+  "ac": 18,
+  "hp": 178,
+  "speed": "walk 40 ft., climb 40 ft., fly 80 ft.",
+  "features": [
+   "Bite",
+   "Claw",
+   "Fire Breath"
+  ],
+  "xp": 5900
+ },
+ {
+  "name": "Behir",
+  "size": "Huge",
+  "type": "monstrosity",
+  "cr": 11.0,
+  "ac": 17,
+  "hp": 168,
+  "speed": "walk 50 ft., climb 40 ft.",
+  "features": [
+   "Bite",
+   "Constrict",
+   "Lightning Breath"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Djinni",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 11.0,
+  "ac": 17,
+  "hp": 161,
+  "speed": "walk 30 ft., fly 90 ft.",
+  "features": [
+   "Elemental Demise",
+   "Innate Spellcasting",
+   "Scimitar",
+   "Create Whirlwind"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Efreeti",
+  "size": "Large",
+  "type": "elemental",
+  "cr": 11.0,
+  "ac": 17,
+  "hp": 200,
+  "speed": "walk 40 ft., fly 60 ft.",
+  "features": [
+   "Elemental Demise",
+   "Innate Spellcasting",
+   "Scimitar",
+   "Hurl Flame"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Gynosphinx",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 11.0,
+  "ac": 17,
+  "hp": 136,
+  "speed": "walk 40 ft., fly 60 ft.",
+  "features": [
+   "Inscrutable",
+   "Magic Weapons",
+   "Spellcasting",
+   "Claw"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Horned Devil",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 11.0,
+  "ac": 18,
+  "hp": 178,
+  "speed": "walk 20 ft., fly 60 ft.",
+  "features": [
+   "Devil's Sight",
+   "Magic Resistance",
+   "Fork",
+   "Tail",
+   "Hurl Flame"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Remorhaz",
+  "size": "Huge",
+  "type": "monstrosity",
+  "cr": 11.0,
+  "ac": 17,
+  "hp": 195,
+  "speed": "walk 30 ft., burrow 20 ft.",
+  "features": [
+   "Heated Body",
+   "Bite",
+   "Swallow"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Roc",
+  "size": "Gargantuan",
+  "type": "monstrosity",
+  "cr": 11.0,
+  "ac": 15,
+  "hp": 248,
+  "speed": "walk 20 ft., fly 120 ft.",
+  "features": [
+   "Keen Sight",
+   "Beak",
+   "Talons"
+  ],
+  "xp": 7200
+ },
+ {
+  "name": "Archmage",
+  "size": "Medium",
+  "type": "humanoid",
+  "cr": 12.0,
+  "ac": 12,
+  "hp": 99,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Magic Resistance",
+   "Spellcasting",
+   "Dagger"
+  ],
+  "xp": 8400
+ },
+ {
+  "name": "Erinyes",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 12.0,
+  "ac": 18,
+  "hp": 153,
+  "speed": "walk 30 ft., fly 60 ft.",
+  "features": [
+   "Hellish Weapons",
+   "Magic Resistance",
+   "Longsword",
+   "Longbow"
+  ],
+  "xp": 8400
+ },
+ {
+  "name": "Adult Brass Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 13.0,
+  "ac": 18,
+  "hp": 172,
+  "speed": "walk 40 ft., burrow 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Adult White Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 13.0,
+  "ac": 18,
+  "hp": 200,
+  "speed": "walk 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Ice Walk",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Nalfeshnee",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 13.0,
+  "ac": 18,
+  "hp": 184,
+  "speed": "walk 20 ft., fly 30 ft.",
+  "features": [
+   "Magic Resistance",
+   "Bite",
+   "Claw",
+   "Horror Nimbus"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Rakshasa",
+  "size": "Medium",
+  "type": "fiend",
+  "cr": 13.0,
+  "ac": 16,
+  "hp": 110,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Limited Magic Immunity",
+   "Innate Spellcasting",
+   "Claw"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Storm Giant",
+  "size": "Huge",
+  "type": "giant",
+  "cr": 13.0,
+  "ac": 16,
+  "hp": 230,
+  "speed": "walk 50 ft., swim 50 ft.",
+  "features": [
+   "Amphibious",
+   "Innate Spellcasting",
+   "Greatsword",
+   "Rock",
+   "Lightning Strike"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Vampire, Bat Form",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 13.0,
+  "ac": 16,
+  "hp": 144,
+  "speed": "walk 5 ft., fly 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Legendary Resistance",
+   "Misty Escape",
+   "Bite",
+   "Charm",
+   "Children of the Night"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Vampire, Mist Form",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 13.0,
+  "ac": 16,
+  "hp": 144,
+  "speed": "fly 20 ft.",
+  "features": [
+   "Shapechanger",
+   "Legendary Resistance",
+   "Misty Escape"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Vampire, Vampire Form",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 13.0,
+  "ac": 16,
+  "hp": 144,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Shapechanger",
+   "Legendary Resistance",
+   "Misty Escape",
+   "Unarmed Strike",
+   "Bite",
+   "Charm"
+  ],
+  "xp": 10000
+ },
+ {
+  "name": "Adult Black Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 14.0,
+  "ac": 19,
+  "hp": 195,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 11500
+ },
+ {
+  "name": "Adult Copper Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 14.0,
+  "ac": 18,
+  "hp": 184,
+  "speed": "walk 40 ft., climb 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 11500
+ },
+ {
+  "name": "Ice Devil",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 14.0,
+  "ac": 18,
+  "hp": 180,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Devil's Sight",
+   "Magic Resistance",
+   "Bite",
+   "Claws",
+   "Tail"
+  ],
+  "xp": 11500
+ },
+ {
+  "name": "Adult Bronze Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 15.0,
+  "ac": 19,
+  "hp": 212,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 13000
+ },
+ {
+  "name": "Adult Green Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 15.0,
+  "ac": 19,
+  "hp": 207,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 13000
+ },
+ {
+  "name": "Mummy Lord",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 15.0,
+  "ac": 17,
+  "hp": 97,
+  "speed": "walk 20 ft.",
+  "features": [
+   "Magic Resistance",
+   "Rejuvenation",
+   "Spellcasting",
+   "Rotting Fist",
+   "Dreadful Glare"
+  ],
+  "xp": 13000
+ },
+ {
+  "name": "Purple Worm",
+  "size": "Gargantuan",
+  "type": "monstrosity",
+  "cr": 15.0,
+  "ac": 18,
+  "hp": 247,
+  "speed": "walk 50 ft., burrow 30 ft.",
+  "features": [
+   "Tunneler",
+   "Bite",
+   "Tail Stinger"
+  ],
+  "xp": 13000
+ },
+ {
+  "name": "Adult Blue Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 16.0,
+  "ac": 19,
+  "hp": 225,
+  "speed": "walk 40 ft., burrow 30 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 15000
+ },
+ {
+  "name": "Adult Silver Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 16.0,
+  "ac": 19,
+  "hp": 243,
+  "speed": "walk 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 15000
+ },
+ {
+  "name": "Iron Golem",
+  "size": "Large",
+  "type": "construct",
+  "cr": 16.0,
+  "ac": 20,
+  "hp": 210,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Fire Absorption",
+   "Immutable Form",
+   "Magic Resistance",
+   "Slam",
+   "Sword",
+   "Poison Breath"
+  ],
+  "xp": 15000
+ },
+ {
+  "name": "Marilith",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 16.0,
+  "ac": 18,
+  "hp": 189,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Magic Resistance",
+   "Magic Weapons",
+   "Reactive",
+   "Longsword",
+   "Tail",
+   "Teleport"
+  ],
+  "xp": 15000
+ },
+ {
+  "name": "Planetar",
+  "size": "Large",
+  "type": "celestial",
+  "cr": 16.0,
+  "ac": 19,
+  "hp": 200,
+  "speed": "walk 40 ft., fly 120 ft.",
+  "features": [
+   "Angelic Weapons",
+   "Divine Awareness",
+   "Innate Spellcasting",
+   "Greatsword",
+   "Healing Touch"
+  ],
+  "xp": 15000
+ },
+ {
+  "name": "Adult Gold Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 17.0,
+  "ac": 19,
+  "hp": 256,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 18000
+ },
+ {
+  "name": "Adult Red Dragon",
+  "size": "Huge",
+  "type": "dragon",
+  "cr": 17.0,
+  "ac": 19,
+  "hp": 256,
+  "speed": "walk 40 ft., climb 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 18000
+ },
+ {
+  "name": "Androsphinx",
+  "size": "Large",
+  "type": "monstrosity",
+  "cr": 17.0,
+  "ac": 17,
+  "hp": 199,
+  "speed": "walk 40 ft., fly 60 ft.",
+  "features": [
+   "Inscrutable",
+   "Magic Weapons",
+   "Spellcasting",
+   "Claw",
+   "Roar"
+  ],
+  "xp": 18000
+ },
+ {
+  "name": "Dragon Turtle",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 17.0,
+  "ac": 20,
+  "hp": 341,
+  "speed": "walk 20 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 18000
+ },
+ {
+  "name": "Balor",
+  "size": "Huge",
+  "type": "fiend",
+  "cr": 19.0,
+  "ac": 19,
+  "hp": 262,
+  "speed": "walk 40 ft., fly 80 ft.",
+  "features": [
+   "Death Throes",
+   "Fire Aura",
+   "Magic Resistance",
+   "Longsword",
+   "Whip",
+   "Teleport"
+  ],
+  "xp": 22000
+ },
+ {
+  "name": "Ancient Brass Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 20.0,
+  "ac": 20,
+  "hp": 297,
+  "speed": "walk 40 ft., burrow 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 25000
+ },
+ {
+  "name": "Ancient White Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 20.0,
+  "ac": 20,
+  "hp": 333,
+  "speed": "walk 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Ice Walk",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 25000
+ },
+ {
+  "name": "Pit Fiend",
+  "size": "Large",
+  "type": "fiend",
+  "cr": 20.0,
+  "ac": 19,
+  "hp": 300,
+  "speed": "walk 30 ft., fly 60 ft.",
+  "features": [
+   "Fear Aura",
+   "Magic Resistance",
+   "Magic Weapons",
+   "Bite",
+   "Claw",
+   "Mace"
+  ],
+  "xp": 25000
+ },
+ {
+  "name": "Ancient Black Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 21.0,
+  "ac": 22,
+  "hp": 367,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 33000
+ },
+ {
+  "name": "Ancient Copper Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 21.0,
+  "ac": 21,
+  "hp": 350,
+  "speed": "walk 40 ft., climb 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 33000
+ },
+ {
+  "name": "Lich",
+  "size": "Medium",
+  "type": "undead",
+  "cr": 21.0,
+  "ac": 17,
+  "hp": 135,
+  "speed": "walk 30 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Rejuvenation",
+   "Spellcasting",
+   "Paralyzing Touch"
+  ],
+  "xp": 33000
+ },
+ {
+  "name": "Solar",
+  "size": "Large",
+  "type": "celestial",
+  "cr": 21.0,
+  "ac": 21,
+  "hp": 243,
+  "speed": "walk 50 ft., fly 150 ft.",
+  "features": [
+   "Angelic Weapons",
+   "Divine Awareness",
+   "Innate Spellcasting",
+   "Greatsword",
+   "Slaying Longbow",
+   "Flying Sword"
+  ],
+  "xp": 33000
+ },
+ {
+  "name": "Ancient Bronze Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 22.0,
+  "ac": 22,
+  "hp": 444,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 41000
+ },
+ {
+  "name": "Ancient Green Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 22.0,
+  "ac": 21,
+  "hp": 385,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 41000
+ },
+ {
+  "name": "Ancient Blue Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 23.0,
+  "ac": 22,
+  "hp": 481,
+  "speed": "walk 40 ft., burrow 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 50000
+ },
+ {
+  "name": "Ancient Silver Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 23.0,
+  "ac": 22,
+  "hp": 487,
+  "speed": "walk 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 50000
+ },
+ {
+  "name": "Kraken",
+  "size": "Gargantuan",
+  "type": "monstrosity",
+  "cr": 23.0,
+  "ac": 18,
+  "hp": 472,
+  "speed": "walk 20 ft., swim 60 ft.",
+  "features": [
+   "Amphibious",
+   "Freedom of Movement",
+   "Siege Monster",
+   "Bite",
+   "Tentacle",
+   "Fling"
+  ],
+  "xp": 50000
+ },
+ {
+  "name": "Ancient Gold Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 24.0,
+  "ac": 22,
+  "hp": 546,
+  "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+  "features": [
+   "Amphibious",
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 62000
+ },
+ {
+  "name": "Ancient Red Dragon",
+  "size": "Gargantuan",
+  "type": "dragon",
+  "cr": 24.0,
+  "ac": 22,
+  "hp": 546,
+  "speed": "walk 40 ft., climb 40 ft., fly 80 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Bite",
+   "Claw",
+   "Tail"
+  ],
+  "xp": 62000
+ },
+ {
+  "name": "Tarrasque",
+  "size": "Gargantuan",
+  "type": "monstrosity",
+  "cr": 30.0,
+  "ac": 25,
+  "hp": 676,
+  "speed": "walk 40 ft.",
+  "features": [
+   "Legendary Resistance",
+   "Magic Resistance",
+   "Reflective Carapace",
+   "Bite",
+   "Claw",
+   "Horns"
+  ],
+  "xp": 155000
+ }
+]
